@@ -1,6 +1,6 @@
 
-def pyramide(n=20):
+def pyramide(n=10):
     for i in range(n):
         print("*"*i)
 
-pyramide(20)
+pyramide(10)
